@@ -1,12 +1,7 @@
-@font-face {
-  font-family: "phlattgrotesk";
-  src: url("../fonts/phlattgrotesk-regular-webfont.woff2") format("woff2");
-  font-weight: normal;
-  font-style: normal;
-}
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap");
 
 :root {
-  --font-family: "phlattgrotesk", sans-serif;
+  --font-family: "Manrope", sans-serif;
 
   --gradient-text: linear-gradient(89.97deg, #ae67fa 1.84%, #f49867 102.67%);
   --gradient-bar: linear-gradient(103.22deg, #ae67fa -13.86%, #f49867 00.55%);
